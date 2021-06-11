@@ -1,0 +1,3 @@
+src/gen/java/com/rbb/similarproducts/openapi/api/ApiUtil.java
+src/gen/java/com/rbb/similarproducts/openapi/api/ProductApi.java
+src/gen/java/com/rbb/similarproducts/openapi/model/ProductDetail.java
